@@ -1,4 +1,4 @@
-resume-builder
+Resume Builder
 ==============
 
 Resume Builder
